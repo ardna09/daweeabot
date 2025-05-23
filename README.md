@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 <!-- markdownlint-disable MD030 -->
 
 <img width="100%" src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.png?raw=true"></a>
@@ -213,4 +215,10 @@ See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://
 
 ## 📄 License
 
-Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
+# Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
+
+# daweeabot
+
+for website daweea batik
+
+> > > > > > > 2f76ddc0a3e01daf4b3dcd46deb1d969f3c718f6
